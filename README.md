@@ -59,3 +59,11 @@ npx playwright test --headed
 ### Run tests and generate a report
 
 npx playwright test --reporter=html
+
+## Additional Notes
+
+Thanks to
+
+- Craig S. Kaplan for pointing me to the repositories and answering questions that got this started.
+- https://github.com/bohemian-miser/Spectre for the hint about the original web application. (See the web_orig directory, which is a copy of the files.)
+- Christian Lawson-Perfect for the monotile.js code, and the https://github.com/christianp/aperiodic-monotile repository with pre-built shapes.

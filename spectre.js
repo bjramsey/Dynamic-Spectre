@@ -695,7 +695,7 @@ function setup() {
 	const curve_datalist = createElement('datalist');
 	curve_datalist.id('curve-values');
 	curve_datalist.child(createElement('option').attribute('value', '0'));
-	curve_datalist.child(createElement('option').attribute('value', '0.25'));
+	curve_datalist.child(createElement('option').attribute('value', '0.3'));
 	curve_datalist.child(createElement('option').attribute('value', '0.5'));
 	curve_datalist.child(createElement('option').attribute('value', '0.6'));
 	curve_datalist.child(createElement('option').attribute('value', '1'));
