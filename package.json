@@ -1,0 +1,16 @@
+{
+  "name": "dynamic_spectre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "debug_tiling.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.9"
+  }
+}
